@@ -4,13 +4,20 @@ Varsity College, Cape Town
 
 PROJECT OVERVIEW
 This project is a C# Windows Forms Application that allows users to report municipal service issues such as sanitation, roads, and utilities. The application consists of a single main form and a modular (can be reused) “UserControl” for submitting issue reports. The reported issues list is stored and managed in the main form, ensuring modularity and ease of use in ways that the same list of issues can be easily reused across different parts of the application for instance if necessary.
+
 KEY FEATURES: 
 •	Report issues related to municipal services.
+
 •	Progress bar to track form completion.
+
 •	Image attachment feature for submitting images with reports.
+
 •	Dynamically loaded UserControl for modular form management.
+
 •	Menu to navigate to different sections of the application.
+
 •	Back Button to navigate to the main form thus home page.
+
 SYSTEM REQUIREMENTS:
 •	IDE: Visual Studio 2022
 •	.NET Framework: .NET Framework 4.8
