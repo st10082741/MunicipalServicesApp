@@ -21,12 +21,19 @@ KEY FEATURES:
 •	Back Button to navigate to the main form thus home page.
 
 SYSTEM REQUIREMENTS:
+
 •	IDE: Visual Studio 2022
+
 •	.NET Framework: .NET Framework 4.8
+
 USING OF SOFTWARE 
+
 MainForm
-•	The MainForm contains the main navigation for the application. It features a menu item labelled "Report Issues" that loads the ReportIssues Control.
+
+  •	The MainForm contains the main navigation for the application. It features a menu item labelled "Report Issues" that loads the ReportIssues Control.
+
 Reporting an Issue
+
 1.	Click "Report Issues" to open the issue reporting form.
 
 2.	Fill in the following fields:
